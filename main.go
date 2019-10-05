@@ -22,4 +22,5 @@ func main() {
 	fmt.Println("Escuela: ", escuela)
 	fmt.Println("Colegio: ", colegio)
 	fmt.Println("Universidad: ", universidad)
+
 }
